@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="datanucleus.javax.persistence2" type="repository">
+    <properties maven-id="org.datanucleus:javax.persistence:2.2.4" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.persistence-2.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
